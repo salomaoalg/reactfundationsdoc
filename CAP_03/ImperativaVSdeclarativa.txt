@@ -1,0 +1,11 @@
+Programação imperativa vs. declarativa
+O código acima é um bom exemplo de programação imperativa . 
+Você está escrevendo as etapas de como a interface do usuário deve ser atualizada. 
+Mas quando se trata de construir interfaces de usuário, uma abordagem 
+declarativa é frequentemente preferida porque pode acelerar o processo de desenvolvimento. 
+
+Em vez de ter que escrever métodos DOM, seria útil se os desenvolvedores 
+declarar o que querem mostrar(neste caso, uma tag com algum texto).h1
+
+Em outras palavras, a programação imperativa é como dar a um chef instruções passo a passo sobre como fazer uma pizza. 
+A programação declarativa é como pedir uma pizza sem se preocupar com os passos necessários para fazer a pizza. 
