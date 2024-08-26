@@ -17,6 +17,7 @@ export default function RootLayout({ children }) {
           <ul>
             <li><Link href="/">Home</Link></li>
             <li><Link href="page/interacao">Interecao</Link></li>
+            <li><Link href="page/comp_memory">Componente de Memoria</Link></li>
           </ul>
         </nav>
         {children}</body>

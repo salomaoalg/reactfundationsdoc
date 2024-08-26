@@ -8,7 +8,7 @@ export default function interacao() {
   );
 }
 
-function Toolbar({ onPlayMovie, onUploadImage }) {
+function Toolbar({onPlayMovie, onUploadImage }) {
   return (
     <div>
       <Button onClick={onPlayMovie}>
@@ -21,7 +21,7 @@ function Toolbar({ onPlayMovie, onUploadImage }) {
   );
 }
 
-function Button({ onClick, children }) {
+function Button({onClick, children}) {
   return (
     <button onClick={onClick}>
       {children}
