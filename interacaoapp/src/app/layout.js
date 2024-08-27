@@ -18,6 +18,7 @@ export default function RootLayout({ children }) {
             <li><Link href="/">Home</Link></li>
             <li><Link href="page/interacao">Interecao</Link></li>
             <li><Link href="page/comp_memory">Componente de Memoria</Link></li>
+            <li><Link href="page/LikesButt">Button Like Hooks</Link></li>
           </ul>
         </nav>
         {children}</body>
